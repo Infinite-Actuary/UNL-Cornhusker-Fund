@@ -1,5 +1,7 @@
 ### Stocks in the portfolio as of January 13th 2020
 
+`PORT <GO>` -> `PRACTICUM`
+
 | Company                       	| Symbol 	|
 |-------------------------------	|--------	|
 | Activision Blizzard Inc.      	| ATVI   	|
